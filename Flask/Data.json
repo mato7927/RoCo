@@ -1,0 +1,30 @@
+{
+    "data" :
+    [
+        {
+            "tags" : "salutationSimple",
+            "questions" : ["Salut", "Bonjour"],
+            "responses" : ["Bonjour", "Salut", "Comment tu vas ?", "ça va ?"]
+        },
+        {
+            "tags" : "salutationQuestion",
+            "questions" : ["ça va ?", "Comment tu vas ?", "Bien et toi ?"],
+            "responses" : ["Bien et toi ?", "Bien merci", "Je vais bien"]
+        },
+        {
+            "tags" : "motSimple",
+            "questions" : ["Bien", "Ok", "D'accord", "Merci"],
+            "responses" : ["Ok", "Bien"]
+        },
+        {
+            "tags" : "date des examens",
+            "questions" : ["La date des examens ?", "C'est quand les examens ?", "Quelles sont les dates des examens", ""],
+            "responses" : ["", ""]
+        },
+        {
+            "tags":"nombre de dette pour avoir sa licence",
+            "questions":["Combien de dettes pour avoir sa licence ?", "Comment avoir une licence ?"],
+            "responses":["", ""]
+        }
+    ]
+}
